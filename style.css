@@ -1,18 +1,18 @@
 *{margin: 0; padding: 0; box-sizing: border-box;}
 
 
-
+.nav{font-size: x-large;}
 
 /*Ez a Nav */
 .navbar-brand{margin-right: 2rem;
-
+font-size: xx-large !important;
 
 
 }  
 
 
 body{
-    background-image: linear-gradient(to right #2C1E4B , #945CC6  );
+    background-image: linear-gradient(to left, #2C1E4B , #945CC6  );
    
     
 }
