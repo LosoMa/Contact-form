@@ -47,6 +47,9 @@ body{
 main .text{
     padding: 80px;
 }
-main button{
-    
+main .but{
+    background-color: #223C5A;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
 }
