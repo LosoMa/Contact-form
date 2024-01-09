@@ -40,6 +40,9 @@
 
 
 /*Main */
-main{
+main .text{
+    padding: 80px;
+}
+main button{
     
 }
