@@ -1,7 +1,13 @@
 *{margin: 0; padding: 0; box-sizing: border-box;}
 
 
-.nav{font-size: x-large;}
+nav{font-size: x-large;
+font-weight: 600;
+}
+.navbar-toggler{
+    color: white !important;
+    background-color: white;
+}
 
 /*Ez a Nav */
 .navbar-brand{margin-right: 2rem;
@@ -13,8 +19,9 @@ font-size: xx-large !important;
 
 body{
     background-image: linear-gradient(to left, #2C1E4B , #945CC6  );
-   
-    
+   background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 
